@@ -1,1 +1,1 @@
-window.YTD.block.part0 = []
+window.YTD.block.part0 = [ ]

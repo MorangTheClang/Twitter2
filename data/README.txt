@@ -53,6 +53,20 @@ Folder containing the encoded live broadcast video files created by the shell ac
 profile_media
 Folder including current profile avatar image and header/banner image from the account profile, if they have been uploaded.
 ----------------------
+spaces-metadata.js
+- id: Unique id for the space.
+- creatorUserId: The space creator’s Twitter user ID.
+- hostUserIds: Twitter user IDs of users that have admin/moderator authorization of this space.
+- speakers: Users that have participated in this space. It includes participants’ Twitter user IDs and start/end time of their spoken sessions. If data archive is generated at the time the space is live, it will include only the active speakers at the moment. If space has finished, then it will include everyone that participated.
+- createdAt: Space creation time.
+- endedAt: Space end time.
+- totalParticipating: Total number of users participating in the space when the data archive is generated.
+- totalParticipated: Total number of users that have participated in this space.
+- invitedUserIds: Twitter user IDs of users that are chosen by the host through space conversation control.
+----------------------
+spaces_media
+Folder containing the spaces audio files created by the account. These files can be viewed by using QuickTime or VLC Media Player (https://www.videolan.org/vlc/). VLC Media Player is an open-source application that gives you the ability to play media from your computer or a disk, or to stream it from the Web.
+----------------------
 tweet_media
 Folder of images, videos, and/or gifs shared in the account’s Tweets. Note: this folder does not include media hosted on other platforms but linked on Twitter (for example, Youtube videos).
 
@@ -184,6 +198,10 @@ ad-online-conversions-unattributed.js
 - conversionTime: Date and time of the event.
 - additionalParameters: Other optional parameters associated with the event such as a currency or product category.
 ----------------------
+app.js
+- appId: Identifier of the app Twitter believes may be installed on devices associated with the user.
+- appNames: Name of the app Twitter believes may be installed on devices associated with the user.
+----------------------
 birdwatch-note-rating.js
 - noteId: Unique identifier for the Birdwatch note.
 - userId: The Twitter user ID of the author of the Birdwatch note.
@@ -192,6 +210,7 @@ birdwatch-note-rating.js
 - helpful: Indicates whether the Twitter user finds the Birdwatch note helpful or not helpful, if available.
 - helpfulTags: Tags the user added to this Birdwatch note, if available. (Options may include but are not limited to “clear“, “good source”, etc.)
 - nothelpfulTags: Tags the user added to this Birdwatch note, if available. (Options may include but are not limited to “outdated“, “incorrect“, etc.)
+- helpfulnessLevel: Indicates whether the Twitter user finds the Birdwatch note helpful or not, if available. (Options may include but are not limited to "helpful", "somewhat helpful", "not helpful", etc.)
 ----------------------
 birdwatch-note.js
 - noteId: Unique identifier for the Birdwatch note.
