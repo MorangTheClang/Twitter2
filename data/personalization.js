@@ -23,11 +23,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "ASMR",
+            "isDisabled" : false
+          },
+          {
             "name" : "Abigail Ratchford",
             "isDisabled" : false
           },
           {
             "name" : "Air travel",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Albert Pujols",
             "isDisabled" : false
           },
           {
@@ -52,10 +60,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Anime & manga",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Apex Legends",
             "isDisabled" : false
           },
           {
@@ -147,10 +151,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Bungie",
-            "isDisabled" : false
-          },
-          {
             "name" : "Business personalities",
             "isDisabled" : false
           },
@@ -159,11 +159,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "COVID-19 (Japan followable topic)",
+            "name" : "COVID-19 in Japan",
             "isDisabled" : false
           },
           {
             "name" : "COVID-19: government & public officials",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Canada national news",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Cats",
             "isDisabled" : false
           },
           {
@@ -207,15 +215,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Counter Logic Gaming",
-            "isDisabled" : false
-          },
-          {
             "name" : "Counter-Strike",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Cyberpunk 2077",
             "isDisabled" : false
           },
           {
@@ -224,14 +224,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Dallas Fuel",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Destiny",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Diablo",
             "isDisabled" : false
           },
           {
@@ -275,15 +267,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Entertainment awards",
+            "isDisabled" : false
+          },
+          {
             "name" : "Entertainment franchises",
             "isDisabled" : false
           },
           {
             "name" : "Envy",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Esfand",
             "isDisabled" : false
           },
           {
@@ -299,7 +291,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Extreme sports",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Face care",
+            "isDisabled" : false
+          },
+          {
             "name" : "Facebook",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Fashion",
             "isDisabled" : false
           },
           {
@@ -323,11 +327,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "FlyQuest",
+            "name" : "Fnatic",
             "isDisabled" : false
           },
           {
-            "name" : "Fnatic",
+            "name" : "Formula 1",
             "isDisabled" : false
           },
           {
@@ -367,6 +371,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "General info",
+            "isDisabled" : false
+          },
+          {
             "name" : "GeorgeNotFound",
             "isDisabled" : false
           },
@@ -391,7 +399,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Guns N' Roses",
+            "name" : "Hafu",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Hair care",
             "isDisabled" : false
           },
           {
@@ -404,10 +416,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "HasanAbi",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Hearthstone",
             "isDisabled" : false
           },
           {
@@ -439,7 +447,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Keyboard enthusiasts",
+            "name" : "Karen Gillan",
             "isDisabled" : false
           },
           {
@@ -459,10 +467,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "League of Legends Champions Korea",
-            "isDisabled" : false
-          },
-          {
             "name" : "League of Legends Championship Series",
             "isDisabled" : false
           },
@@ -479,7 +483,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "MAD Lions",
+            "name" : "Make-up and cosmetics",
             "isDisabled" : false
           },
           {
@@ -631,11 +635,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Ninjas in Pyjamas",
+            "name" : "Online gaming",
             "isDisabled" : false
           },
           {
-            "name" : "Online gaming",
+            "name" : "Ontario",
             "isDisabled" : false
           },
           {
@@ -672,6 +676,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Philadelphia art scene",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Photography",
             "isDisabled" : false
           },
           {
@@ -743,11 +751,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Rockstar Games",
+            "name" : "Romain Grosjean",
             "isDisabled" : false
           },
           {
-            "name" : "Rogue",
+            "name" : "Ryan Higa",
             "isDisabled" : false
           },
           {
@@ -755,11 +763,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Science news",
+            "name" : "Scuderia AlphaTauri",
             "isDisabled" : false
           },
           {
-            "name" : "Scuderia AlphaTauri",
+            "name" : "Shiphtur",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Skeppy",
             "isDisabled" : false
           },
           {
@@ -775,19 +787,27 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Team Reciprocity",
+            "name" : "Tech news",
             "isDisabled" : false
           },
           {
-            "name" : "Ubisoft",
+            "name" : "Techno",
+            "isDisabled" : false
+          },
+          {
+            "name" : "The International",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Toronto",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Travel news and general info",
             "isDisabled" : false
           },
           {
             "name" : "United Kingdom travel",
-            "isDisabled" : false
-          },
-          {
-            "name" : "VALORANT Champions Tour",
             "isDisabled" : false
           },
           {
@@ -803,7 +823,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "cloakzy",
+            "name" : "Youtooz",
+            "isDisabled" : false
+          },
+          {
+            "name" : "scarra",
             "isDisabled" : false
           },
           {
@@ -813,51 +837,8 @@ window.YTD.personalization.part0 = [
         ],
         "partnerInterests" : [ ],
         "audienceAndAdvertisers" : {
-          "numAudiences" : "105",
-          "advertisers" : [
-            "@AWS_Edu",
-            "@Blizzard_Ent",
-            "@DreamMalar",
-            "@DukeEnergy",
-            "@HSesports",
-            "@RapCaviar",
-            "@ShawInfo",
-            "@Spotify",
-            "@SpotifyARG",
-            "@SpotifyAU",
-            "@SpotifyBR",
-            "@SpotifyCanada",
-            "@SpotifyCares",
-            "@SpotifyChile",
-            "@SpotifyColombia",
-            "@SpotifyDE",
-            "@SpotifyHK",
-            "@SpotifyID",
-            "@SpotifyJP",
-            "@SpotifyKDaebak",
-            "@SpotifyKSA",
-            "@SpotifyMY",
-            "@SpotifyMexico",
-            "@SpotifySA",
-            "@SpotifySG",
-            "@SpotifySpain",
-            "@SpotifyThailand",
-            "@SpotifyUK",
-            "@SpotifyVietnam",
-            "@Spotify_PH",
-            "@TWD__Survivors",
-            "@TwitterCanada",
-            "@Warcraft",
-            "@WoWEsports",
-            "@awscloud",
-            "@coopuk",
-            "@netflix",
-            "@spotifyfrance",
-            "@spotifyindia",
-            "@spotifypodcasts",
-            "@spotifytaiwan",
-            "@suryasenk"
-          ],
+          "numAudiences" : "0",
+          "advertisers" : [ ],
           "lookalikeAdvertisers" : [
             "@ArknightsStaff",
             "@CocaColaJapan",
@@ -898,12 +879,12 @@ window.YTD.personalization.part0 = [
             "@Independent",
             "@Intuit",
             "@LiveSmart",
+            "@Motherland",
             "@MountainDew",
             "@NintendoAmerica",
             "@NissanUSA",
             "@O2",
             "@OldNavy",
-            "@Razer",
             "@Spotify",
             "@SpotifyDE",
             "@Starbucks",
@@ -934,10 +915,10 @@ window.YTD.personalization.part0 = [
             "@monmouthu",
             "@nobleaudio_jp",
             "@nytimes",
-            "@officedepot",
             "@techreview",
             "@truthorange",
             "@voice_evidence",
+            "@voxsup",
             "@washingtonpost",
             "@wileyinresearch"
           ]

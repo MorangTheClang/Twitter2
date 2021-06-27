@@ -2,7 +2,7 @@ window.YTD.profile.part0 = [
   {
     "profile" : {
       "description" : {
-        "bio" : "Madness in great ones must not unwatched go.\nEphemeral streams and videos https://t.co/DrZ8hWo341",
+        "bio" : "",
         "website" : "https://t.co/1lONK0Qh0Q",
         "location" : "Indoors"
       },

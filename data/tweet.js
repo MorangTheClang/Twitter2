@@ -21813,7 +21813,7 @@ window.YTD.tweet.part0 = [
       "entities" : {
         "user_mentions" : [
           {
-            "name" : "🅵1🆂🅲🅷🅸🅿🅿🅸🅴 new account🇳🇱",
+            "name" : "🇳🇱🅵1🆂🅲🅷🅸🅿🅿🅸🅴🧡 new account",
             "screen_name" : "Bertie23574627",
             "indices" : [
               "3",
@@ -42653,7 +42653,7 @@ window.YTD.tweet.part0 = [
             "id" : "34507480"
           },
           {
-            "name" : "PLANET HER",
+            "name" : "the depths of my ass",
             "screen_name" : "DojaCat",
             "indices" : [
               "35",
@@ -44026,7 +44026,7 @@ window.YTD.tweet.part0 = [
       "entities" : {
         "user_mentions" : [
           {
-            "name" : "Japan 🌸",
+            "name" : "follow me if you love japan ➐",
             "screen_name" : "jxpann",
             "indices" : [
               "3",
@@ -46731,7 +46731,7 @@ window.YTD.tweet.part0 = [
       "entities" : {
         "user_mentions" : [
           {
-            "name" : "Japan 🌸",
+            "name" : "follow me if you love japan ➐",
             "screen_name" : "jxpann",
             "indices" : [
               "3",
@@ -47179,7 +47179,7 @@ window.YTD.tweet.part0 = [
         "0",
         "277"
       ],
-      "favorite_count" : "1",
+      "favorite_count" : "0",
       "in_reply_to_status_id_str" : "1394479638454308864",
       "id_str" : "1394483754215763973",
       "in_reply_to_user_id" : "1350922293367635968",
@@ -51852,7 +51852,7 @@ window.YTD.tweet.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "my ass",
+            "name" : "YOU RIGHT",
             "screen_name" : "DojaCat",
             "indices" : [
               "0",
@@ -53698,7 +53698,7 @@ window.YTD.tweet.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "PLANET HER",
+            "name" : "YOU RIGHT",
             "screen_name" : "DojaCat",
             "indices" : [
               "3",
@@ -54077,6 +54077,316 @@ window.YTD.tweet.part0 = [
       "retweeted" : false,
       "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "entities" : {
+        "user_mentions" : [
+          {
+            "name" : "Flowers 🌺",
+            "screen_name" : "flower_posts",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1293228531762298883",
+            "id" : "1293228531762298883"
+          }
+        ],
+        "urls" : [ ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/flower_posts/status/1406533497062371328/photo/1",
+            "source_status_id" : "1406533497062371328",
+            "indices" : [
+              "18",
+              "41"
+            ],
+            "url" : "https://t.co/c3XrbuOkTx",
+            "media_url" : "http://pbs.twimg.com/media/E4UCwkZX0AAgTwX.jpg",
+            "id_str" : "1406533492050219008",
+            "source_user_id" : "1293228531762298883",
+            "id" : "1406533492050219008",
+            "media_url_https" : "https://pbs.twimg.com/media/E4UCwkZX0AAgTwX.jpg",
+            "source_user_id_str" : "1293228531762298883",
+            "sizes" : {
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : "640",
+                "h" : "800",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "640",
+                "h" : "800",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "544",
+                "h" : "680",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1406533497062371328",
+            "display_url" : "pic.twitter.com/c3XrbuOkTx"
+          }
+        ],
+        "hashtags" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "41"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1406541073728503809",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1406541073728503809",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Jun 20 09:14:58 +0000 2021",
+      "favorited" : false,
+      "full_text" : "RT @flower_posts: https://t.co/c3XrbuOkTx",
+      "lang" : "und",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/flower_posts/status/1406533497062371328/photo/1",
+            "source_status_id" : "1406533497062371328",
+            "indices" : [
+              "18",
+              "41"
+            ],
+            "url" : "https://t.co/c3XrbuOkTx",
+            "media_url" : "http://pbs.twimg.com/media/E4UCwkZX0AAgTwX.jpg",
+            "id_str" : "1406533492050219008",
+            "source_user_id" : "1293228531762298883",
+            "id" : "1406533492050219008",
+            "media_url_https" : "https://pbs.twimg.com/media/E4UCwkZX0AAgTwX.jpg",
+            "source_user_id_str" : "1293228531762298883",
+            "sizes" : {
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : "640",
+                "h" : "800",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "640",
+                "h" : "800",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "544",
+                "h" : "680",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1406533497062371328",
+            "display_url" : "pic.twitter.com/c3XrbuOkTx"
+          },
+          {
+            "expanded_url" : "https://twitter.com/flower_posts/status/1406533497062371328/photo/1",
+            "source_status_id" : "1406533497062371328",
+            "indices" : [
+              "18",
+              "41"
+            ],
+            "url" : "https://t.co/c3XrbuOkTx",
+            "media_url" : "http://pbs.twimg.com/media/E4UCwkXWUAgiiD0.jpg",
+            "id_str" : "1406533492041732104",
+            "source_user_id" : "1293228531762298883",
+            "id" : "1406533492041732104",
+            "media_url_https" : "https://pbs.twimg.com/media/E4UCwkXWUAgiiD0.jpg",
+            "source_user_id_str" : "1293228531762298883",
+            "sizes" : {
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : "495",
+                "h" : "698",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "495",
+                "h" : "698",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "482",
+                "h" : "680",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1406533497062371328",
+            "display_url" : "pic.twitter.com/c3XrbuOkTx"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "129"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1406537835746713600",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1406537835746713600",
+      "created_at" : "Sun Jun 20 09:02:06 +0000 2021",
+      "favorited" : false,
+      "full_text" : "The prices for other legal drugs over illegal is actually lower for most drugs and more pure and safer (gcms testing is required)",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "264"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1406536296361648131",
+      "truncated" : false,
+      "retweet_count" : "2",
+      "id" : "1406536296361648131",
+      "created_at" : "Sun Jun 20 08:55:59 +0000 2021",
+      "favorited" : false,
+      "full_text" : "The reason legal weed hasn't supplanted the illegal market in all places is because the illegal market has had years to grow illicitly to lower the price. That and taxes (I fully support taxes and legal drugs over illegal for this reason) drive up the legal prices",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "the depths of my ass",
+            "screen_name" : "DojaCat",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "568545739",
+            "id" : "568545739"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "28"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1406006149694902273",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1406006149694902273",
+      "created_at" : "Fri Jun 18 21:49:23 +0000 2021",
+      "favorited" : false,
+      "full_text" : "RT @DojaCat: damn i’m stupid",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/OX2sqLC66O",
+            "expanded_url" : "https://youtu.be/0YtzSKYsLiw",
+            "display_url" : "youtu.be/0YtzSKYsLiw",
+            "indices" : [
+              "0",
+              "23"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "23"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1405683800210698240",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1405683800210698240",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jun 18 00:28:28 +0000 2021",
+      "favorited" : false,
+      "full_text" : "https://t.co/OX2sqLC66O",
+      "lang" : "und"
+    }
+  },
+  {
+    "tweet" : {
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "243"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1405623872255266817",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1405623872255266817",
+      "created_at" : "Thu Jun 17 20:30:21 +0000 2021",
+      "favorited" : false,
+      "full_text" : "So I define gateway drug to be the drug that makes you acquire it through an illegal drug dealer so what is the new gateway drug? You can also define gateway drug as the online retail vendors but the brainlet filter is too strong in my opinion",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
         "user_mentions" : [ ],
@@ -54181,31 +54491,6 @@ window.YTD.tweet.part0 = [
       "favorited" : false,
       "full_text" : "https://t.co/H8CqlH7pa9",
       "lang" : "und"
-    }
-  },
-  {
-    "tweet" : {
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "30"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1404603624844451842",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1404603624844451842",
-      "created_at" : "Tue Jun 15 00:56:15 +0000 2021",
-      "favorited" : false,
-      "full_text" : "Let's see Paul Allen's twitter",
-      "lang" : "en"
     }
   },
   {
@@ -55622,6 +55907,56 @@ window.YTD.tweet.part0 = [
       "created_at" : "Thu Jan 28 03:51:41 +0000 2021",
       "favorited" : false,
       "full_text" : "I want to rap so badly",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "30"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1406744504888008705",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1406744504888008705",
+      "created_at" : "Sun Jun 20 22:43:20 +0000 2021",
+      "favorited" : false,
+      "full_text" : "Let's see Paul Allen's twitter",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "154"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1406744362034204675",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1406744362034204675",
+      "created_at" : "Sun Jun 20 22:42:46 +0000 2021",
+      "favorited" : false,
+      "full_text" : "Switching twitter to original account because this one has become desecrated by dick (that really makes you think considering the other accounts I follow)",
       "lang" : "en"
     }
   },
